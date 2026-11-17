@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "indonesian-academic-writing": {
+      "source": "dharmazkaar/indonesian-academic-writing",
+      "sourceType": "github",
+      "skillPath": "skills/indonesian-academic-writing/SKILL.md",
+      "computedHash": "28affb35cae5b4ee6ca468d62398d84f9da034df4e28dcc6d21898dff545f2d6"
+    }
+  }
+}
